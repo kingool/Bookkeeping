@@ -1,0 +1,76 @@
+/* miniprogram/pages/home/home.wxss */
+
+.border{
+  border:1rpx #000 dashed;
+  margin:20rpx 0;
+}
+
+.fanyi-box{
+  margin: 0 auto;
+}
+
+.logo-box{
+  margin: 50rpx auto;
+}
+.Interpret-logo{
+  width: 588rpx;
+  height: 180rpx;
+}
+
+.search {
+  position: relative;
+  margin:  0 auto;
+  border:4rpx #000 solid;
+  height: 160rpx;
+  border-radius:10rpx;
+  background-color: #f6f6f6;
+}
+
+.search .search-inp {
+  margin-top: 50rpx;
+  margin-left: 50rpx;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.search .search-icon {
+  position: absolute;
+  top:54rpx;
+  right: 20rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+
+.phonetic{
+  margin-top: 30rpx;
+}
+
+.uk{
+  margin-left: 30rpx;
+}
+
+.us{
+  margin-left: 100rpx;
+}
+
+.us-but {
+  width: 40rpx;
+  height: 40rpx;
+  background-image: url(https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1593510814&di=02bd45df59181e245e1d3d95c0e93ad4&src=http://ku.90sjimg.com/element_origin_min_pic/00/94/03/7256f2b61339aaf.jpg);
+  background-size:50rpx 50rpx;
+  background-repeat: no-repeat;
+  /* z-index: -9999; */
+}
+
+.paraphrase{
+  margin-top: 50rpx;
+  /* background-color: #129db6; */
+}
+.paraphrase-item{
+  margin-top: 12rpx;
+  font-size: 34rpx;
+  color:#000;
+}
+
+
+
